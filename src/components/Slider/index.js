@@ -9,7 +9,17 @@ SwiperCore.use(Pagination);
 
 function Slider() {
   return (
-    <Swiper slidesPerView={5}>
+    <Swiper
+      slidesPerView={1}
+      breakpoints={{
+        767: {
+          slidesPerView: 2,
+        },
+        1023: {
+          slidesPerView: 5,
+        },
+      }}
+    >
       <SwiperSlide>
         <Card />
       </SwiperSlide>
