@@ -12,7 +12,7 @@ const Places = () => {
         <div className="places__select">
           <h5>Ordenar por: </h5>
           <select>
-            <option>distancia</option>
+            <option>distância</option>
             <option>nome</option>
           </select>
         </div>
