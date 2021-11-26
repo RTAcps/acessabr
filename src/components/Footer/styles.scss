@@ -1,3 +1,5 @@
+@import "../../styles/responsive";
+
 .footer {
   width: 100%;
 
@@ -25,6 +27,7 @@
       background-color: var(--lightGreen);
       color: var(--black);
       font-size: 1.5rem;
+      text-align: justify;
     }
 
     &--second {
@@ -45,5 +48,11 @@
     border-radius: 0.5rem;
     box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.35);
     padding: 1rem;
+  }
+
+  @media (max-width: $mobileSmall) {
+    p {
+      font-size: 1.5rem !important;
+    }
   }
 }

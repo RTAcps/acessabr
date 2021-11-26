@@ -1,3 +1,5 @@
+@import "../../styles/responsive";
+
 .header {
   &__container {
     width: 100%;
@@ -17,22 +19,36 @@
       }
     }
 
-    &--ebac {
-      img {
-        margin-right: 1rem;
-      }
+    &__city {
+      font-size: 1.8rem;
+      line-height: 1.8rem;
+      font-weight: 300;
+    }
+
+    &__span {
+      font-size: 1.2rem;
+      line-height: 1.4rem;
+      font-weight: 400;
+      margin-right: 1.2rem;
     }
   }
+}
 
-  &__city {
-    font-size: 1.8rem;
-    line-height: 1.8rem;
-    font-weight: 300;
-  }
-  &__span {
-    font-size: 1.2rem;
-    line-height: 1.4rem;
-    font-weight: 400;
-    margin-right: 1.2rem;
+@media (max-width: $mobileLarge) {
+  &__logo {
+    flex-wrap: wrap;
+
+    &--ebac {
+      margin-left: 2rem;
+      width: 0.9rem;
+    }
+
+    &__city {
+      margin-top: 1rem;
+    }
+
+    &__span {
+      margin-bottom: 0.4rem;
+    }
   }
 }
