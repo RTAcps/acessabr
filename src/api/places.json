@@ -1,0 +1,136 @@
+{
+  "places": [
+    {
+      "id": 1,
+      "name": "Museu de História Natural",
+      "image": "/places/image-mhnatural.jpg",
+      "description": "O Museu de História Natural situa-se no Bosque dos Jequitibás, reserva florestal de Mata Atlântica nativa, que também abriga um zoológico. O museu apresenta fauna e flora brasileira, com ênfase nos principais ecossistemas. Recebendo anualmente cerca de cem mil pessoas, o Museu tem por objetivo difundir conhecimentos sobre a fauna e a flora e promover a sua conservação, bem como desenvolver programas de Educação Ambiental. Atualmente, o Museu, junto com a Casa dos Animais Interessantes e o Aquário Municipal, possui um acervo de mais de 5.000 peças, incluindo mamíferos, aves, répteis, peixes, insetos e invertebrados.",
+      "location": {
+        "lat": -22.909677039922467,
+        "long": -47.04896970899113
+      },
+      "facilities": [
+        { "item": 1, "status": true },
+        { "item": 2, "status": false },
+        { "item": 3, "status": true },
+        { "item": 4, "status": false },
+        { "item": 5, "status": true },
+        { "item": 6, "status": true },
+        { "item": 7, "status": true },
+        { "item": 8, "status": true },
+        { "item": 9, "status": true },
+        { "item": 10, "status": true }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Bosque dos Jequitibás",
+      "image": "/places/image-bosque.jpg",
+      "description": "O Bosque dos Jequitibás é uma das maiores e mais antigas áreas de lazer da cidade de Campinas, visitada anualmente por aproximadamente 1 milhão de pessoas. Adquirido pelo poder público municipal do Sr. Francisco Bueno de Miranda em 1915, este espaço já se constituía uma área de banhos e passeios. Atualmente o Bosque possui 10 hectares de reserva florestal nativa com várias espécies de plantas cadastradas e um zoológico com 300 espécimes de aves, répteis e mamíferos (como leões, tigres, lobo-guará, cachorro-vinagre, arara-azul, suricatas, hipopótamo, pantera, onça pintada, entre outros), uma pista de corrida, trenzinho, quiosques, lanchonetes e playground, a Casa do Caboclo (réplica em pau-a-pique de moradia rural), o Museu de História Natural, o Aquário Municipal e o Teatro Carlos Maia (especializado em teatro infantil). Em sua trajetória centenária de espaço de lazer, o Bosque dos Jequitibás mereceu do CONDEPHAAT (Conselho de Defesa do Patrimônio Histórico, Arquitetônico, Artístico e Turístico do Estado de São Paulo) em 1970, o tombamento de seu zoológico; do CONDEPACC (Conselho de Defesa do Patrimônio Artístico e Cultural de Campinas) em 1993, o tombamento de todo o conjunto e do IBAMA (Instituto Brasileiro do Meio Ambiente) em 1995, o reconhecimento de seu zoológico.",
+      "location": {
+        "lat": -22.908530700102922,
+        "long": -47.04939615300905
+      },
+      "facilities": [
+        { "item": 1, "status": true },
+        { "item": 2, "status": false },
+        { "item": 3, "status": true },
+        { "item": 4, "status": false },
+        { "item": 5, "status": true },
+        { "item": 6, "status": true },
+        { "item": 7, "status": false },
+        { "item": 8, "status": true },
+        { "item": 9, "status": true },
+        { "item": 10, "status": true }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Museu de Arte Contemporânea de Campinas - MACC",
+      "image": "/places/image-macc.jpg",
+      "description": "Fundado em 1965 e instalado desde 1976, o Museu de Arte Contemporânea de Campinas “José Pancetti” - MACC tem, como finalidade, reunir, documentar, estudar, conservar, expor e divulgar a arte, bem como realizar outras atividades artísticos culturais. Também é finalidade do MACC desenvolver atividades artes educativas junto às escolas da cidade e a grupos especiais. Seu programa de exposições temporárias oferece um panorama da produção contemporânea combinado com mostras do acervo em que figuram nomes como José Roberto Aguilar, Mira Schendel, Candido Portinari, Lasar Segall, Roberto Burle Marx, Cildo Meireles, Waltércio Caldas e o Grupo Vanguarda.",
+      "location": {
+        "lat": -22.900786705113962,
+        "long": -47.05683969797622
+      },
+      "facilities": [
+        { "item": 1, "status": true },
+        { "item": 2, "status": true },
+        { "item": 3, "status": true },
+        { "item": 4, "status": true },
+        { "item": 5, "status": true },
+        { "item": 6, "status": true },
+        { "item": 7, "status": true },
+        { "item": 8, "status": true },
+        { "item": 9, "status": true },
+        { "item": 10, "status": true }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Museu de Imagem e Som",
+      "image": "/places/image-mis.jpg",
+      "description": "Fundado em 1975 e sediado no Palácio dos Azulejos, o Museu da Imagem e do Som é uma instituição que desde sua criação vem preservando e difundindo um importante acervo de memória audiovisual da cidade de Campinas, com centenas de equipamentos de produção e reprodução de imagens e sons. Abrangendo áreas de Vídeo e Áudio, Fotografia, Música, Cinema, Objetos Tecnológicos e Educação Patrimonial, acompanha a tendência geral que os museus ocupam atualmente na sociedade, que é a de atuar como microcosmo social e possibilitar conhecimento à sociedade por meio da valorização de múltiplas atividades.",
+      "location": {
+        "lat": -22.906560850514428,
+        "long": -47.05960132906797
+      },
+      "facilities": [
+        { "item": 1, "status": true },
+        { "item": 2, "status": true },
+        { "item": 3, "status": true },
+        { "item": 4, "status": true },
+        { "item": 5, "status": false },
+        { "item": 6, "status": true },
+        { "item": 7, "status": false },
+        { "item": 8, "status": false },
+        { "item": 9, "status": true },
+        { "item": 10, "status": true }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Mercado Municipal de Campinas",
+      "image": "/places/image-mercadao.jpg",
+      "description": "Com mais de um século de história, o Mercado Municipal de Campinas, mais conhecido como Mercadão, é reduto de insumos para a gastronomia. No local, encontram-se especiarias, temperos, verduras, frutas, queijos, carnes, peixes, embutidos, artigos para feijoada e uma quantidade de produtos encontrados em empórios. Fundado em 12 de abril de 1908 pelo então prefeito Orosimbo Maia, sua arquitetura de inspiração mourisca (influência árabe) é de autoria de Ramos de Azevedo, responsável por obras marcantes na formação urbana de Campinas e São Paulo, entre elas o Teatro Municipal de São Paulo e o famoso Mercadão de São Paulo. No início, o mercado funcionou como depósito de açúcar que era destinado ao Porto de Santos. Aos arredores ficava a estação Carlos Botelho da Estrada de Ferro Funilense, por onde chegavam os trens carregados de diversos gêneros alimentícios (local onde hoje estão as bancas das peixarias) e ali recolhiam as sacas de açúcar. Do outro lado, circulavam as carroças e charretes, que eram abastecidas de produtos a serem comercializados na região. Entre os anos 1930 e 1960, o território foi também ponto de encontro dos jovens da época. Reuniam-se ali jornalistas, artistas e intelectuais que, entre um e outro petisco, discutiam grandes temas nacionais e municipais. Até hoje, este comportamento ainda permanece, com frequentadores que buscam no endereço os barzinhos com comidas típicas de boteco. Considerado o mais antigo centro de compras de Campinas, o Mercadão mantém sua vocação de centro de distribuição de alimentos, possui 143 boxes, 98 no prédio central e 45 bancas externas, com uma grande variedade de produtos. Uma característica marcante entre os comerciantes locais é a tradição de permanência familiar dos boxes ao longo dos anos. O prédio é tombado pelo patrimônio histórico em duas esferas, Condephaat, em 1982, e Condepacc, em 1995. Depois disso, passou por duas reformas que recuperaram suas características originais, uma vez que o prédio estava já descaracterizado. Um cantinho bucólico de Campinas para fazer compras, conhecer produtos regionais e petiscar algo legítimo dos mercadões.",
+      "location": {
+        "lat": -22.902955643422132,
+        "long": -47.06373753091931
+      },
+      "facilities": [
+        { "item": 1, "status": false },
+        { "item": 2, "status": false },
+        { "item": 3, "status": false },
+        { "item": 4, "status": false },
+        { "item": 5, "status": true },
+        { "item": 6, "status": false },
+        { "item": 7, "status": false },
+        { "item": 8, "status": false },
+        { "item": 9, "status": true },
+        { "item": 10, "status": false }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Mata Sata Genebra",
+      "image": "/places/image-matagenebra.jpg",
+      "description": "A Mata de Santa Genebra é considerada o maior remanescente de floresta da cidade de Campinas, e a segunda maior mata nativa em ambiente urbano no Brasil, ficando atrás apenas da Floresta da Tijuca, no Rio de Janeiro. Declarada pelo IBAMA como Área de Relevante Interesse Ecológico (ARIE), é uma Unidade de Conservação Federal tombada pelo CONDEPACC e CONDEPHAAT e abrange 251,77 hectares. Possui nove quilômetros de perímetro e recebe inúmeros pesquisadores de diversas universidades de todo o país. Administrada pela Fundação José Pedro de Oliveira, a Mata de Santa Genebra oferece acesso restrito a pesquisadores e à educação ambiental monitorada, mas uma vez por mês recebe o público para um passeio educativo, onde são apresentados os projetos desenvolvidos pela fundação, além de visitas ao Viveiro de Mudas Nativas, Borboletário, Orquidário, Trilha Oeste e Área Manancial. Vale a visita. Para se inscrever, os interessados devem preencher um formulário de inscrição disponível no site, normalmente a visita monitorada ocorre no primeiro domingo do mês. Durante a atividade, os visitantes tem a oportunidade de conhecer mais sobre a história e a biodiversidade da ARIE Mata de Santa Genebra, floresta de grande importância para região. O percurso tem aproximadamente 5 km, sendo 1,2 km de caminhada por trilha no interior da mata e 3,8 km pela estrada que contorna a floresta. Os visitantes devem obrigatoriamente trajar calça comprida e calçado fechado. É indicado ainda que os visitantes tragam um recipiente com água, protetor solar e repelente para insetos. A atividade monitorada é de graça e restrita a um número limitado de pessoas. Entre no site e procure informação antes de ir.",
+      "location": {
+        "lat": -22.82778565010936,
+        "long": -47.10490276765016
+      },
+      "facilities": [
+        { "item": 1, "status": true },
+        { "item": 2, "status": true },
+        { "item": 3, "status": true },
+        { "item": 4, "status": false },
+        { "item": 5, "status": true },
+        { "item": 6, "status": true },
+        { "item": 7, "status": false },
+        { "item": 8, "status": true },
+        { "item": 9, "status": false },
+        { "item": 10, "status": true }
+      ]
+    }
+  ]
+}
