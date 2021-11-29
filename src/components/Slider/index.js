@@ -14,10 +14,10 @@ function Slider() {
 
   useEffect(() => {
     const fetchPlaces = async () => {
-      const result = await Api.get(`/places?category=${filteredPlaces}`);
+      const result = await Api.get(`/?category=${filteredPlaces}`);
 
       if (result.status === 200) {
-        setPlaces(result.data);
+        setPlaces(result.data.places);
       }
     };
     fetchPlaces();
